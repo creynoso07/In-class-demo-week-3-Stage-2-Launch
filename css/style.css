@@ -6,9 +6,9 @@
 
 /* --- CSS Reset & Custom Properties --- */
 :root {
-  --bg-page: #69a4de;
-  --bg-card: #a41515;
-  --text-main: #111827;
+  --bg-page: #f8f9fa;
+  --bg-card: #ffffff;
+  --text-main: #1f60eb;
   --text-muted: #6b7280;
   --border-light: #e5e7eb;
   --border-dark: #111827;
