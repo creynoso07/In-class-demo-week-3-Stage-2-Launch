@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Recipe Prototype - Sentence Interface</title>
+  <!-- Prototype Stylesheet in separate css folder -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <div class="prototype-container">
+
+    <!-- Top Badge identifying the mid-fidelity prototype -->
+    <div class="prototype-tag">Stage 2 Prototype &bull; Mid-Fidelity Wireframe</div>
+
+    <!-- ====================================================================
+         TOP SENTENCE INTERFACE
+         Based on Sketch:
+         "HUNGRY FOR
+          SOMETHING [SPICY]
+          & HAVE [30 MIN]
+          AND [CHICKEN]"
+         ==================================================================== -->
+    <header class="interface-header">
+      <h1 class="visually-hidden">Recipe Builder Interface</h1>
+
+      <form id="recipe-sentence-form" class="sentence-form" onsubmit="event.preventDefault();">
+        
+        <!-- Line 1: Lead-in Text -->
+        <div class="sentence-row">
+          <span class="sentence-label">HUNGRY FOR</span>
+        </div>
+
+        <!-- Line 2: Flavor Dropdown (spicy, savoury, sweet) -->
+        <div class="sentence-row">
+          <label for="flavor-select" class="sentence-label">SOMETHING</label>
+          <div class="select-wrapper">
+            <select id="flavor-select" name="flavor" class="sentence-select" aria-label="Select flavor">
+              <option value="spicy" selected>SPICY</option>
+              <option value="savoury">SAVOURY</option>
+              <option value="sweet">SWEET</option>
+            </select>
+          </div>
+        </div>
+
+        <!-- Line 3: Time Dropdown (15 min, 30 min, 60 min) -->
+        <div class="sentence-row">
+          <label for="time-select" class="sentence-label">&amp; HAVE</label>
+          <div class="select-wrapper">
+            <select id="time-select" name="time" class="sentence-select" aria-label="Select cooking time">
+              <option value="15 min">15 MIN</option>
+              <option value="30 min" selected>30 MIN</option>
+              <option value="60 min">60 MIN</option>
+            </select>
+          </div>
+        </div>
+
+        <!-- Line 4: Ingredient Dropdown (chicken, beef, tofu) -->
+        <div class="sentence-row">
+          <label for="ingredient-select" class="sentence-label">AND</label>
+          <div class="select-wrapper">
+            <select id="ingredient-select" name="ingredient" class="sentence-select" aria-label="Select main ingredient">
+              <option value="chicken" selected>CHICKEN</option>
+              <option value="beef">BEEF</option>
+              <option value="tofu">TOFU</option>
+            </select>
+          </div>
+        </div>
+
+      </form>
+
+      <!-- Dynamic Selection Readout (Updated by local JSON data) -->
+      <div class="selection-feedback" id="selection-feedback" aria-live="polite">
+        Showing recipes for <strong id="feedback-flavor">spicy</strong> dishes ready in <strong id="feedback-time">30 min</strong> with <strong id="feedback-ingredient">chicken</strong>.
+      </div>
+    </header>
+
+    <!-- ====================================================================
+         RECIPES SECTION (Matching bottom part of sketch)
+         Displays 3 placeholder recipe cards populated from local JSON
+         ==================================================================== -->
+    <main class="recipes-section" id="recipes-section">
+      <div class="section-header">
+        <h2 class="section-title">RECIPES</h2>
+        <span class="results-count" id="results-count">(3 recipes found)</span>
+      </div>
+
+      <!-- Container dynamically populated with 3 cards by js/main.js -->
+      <div class="recipes-grid" id="recipes-container">
+        <!-- Recipe cards render here -->
+      </div>
+    </main>
+
+  </div>
+
+  <!-- Scripts in separate js folder -->
+  <!-- 1. Fallback local data array for immediate offline / file:// testing -->
+  <script src="js/data.js"></script>
+  <!-- 2. Main controller handling dropdown interactions and rendering -->
+  <script src="js/main.js"></script>
+</body>
+</html>

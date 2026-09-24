@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "Spicy Thai Basil Chicken",
+    "flavor": "spicy",
+    "time": "30 min",
+    "ingredient": "chicken",
+    "description": "Sautéed chicken minced with fragrant holy basil, garlic, and fresh red chilies in a savoury-spicy soy glaze.",
+    "calories": "420 kcal",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "title": "Fiery Szechuan Chili Chicken",
+    "flavor": "spicy",
+    "time": "30 min",
+    "ingredient": "chicken",
+    "description": "Tender chicken chunks tossed with toasted peppercorns, dried red peppers, and green scallions.",
+    "calories": "480 kcal",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "title": "Spicy Honey Habanero Chicken",
+    "flavor": "spicy",
+    "time": "30 min",
+    "ingredient": "chicken",
+    "description": "Pan-seared chicken breast basted in a quick sweet-and-spicy honey glaze with minced peppers.",
+    "calories": "450 kcal",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "title": "15-Minute Spicy Chicken Pepper Stir-Fry",
+    "flavor": "spicy",
+    "time": "15 min",
+    "ingredient": "chicken",
+    "description": "Flash-fried chicken strips with serrano peppers, onions, and spicy soy-sesame seasoning.",
+    "calories": "380 kcal",
+    "difficulty": "Quick"
+  },
+  {
+    "id": 5,
+    "title": "Slow-Simmered Spicy Coconut Chicken",
+    "flavor": "spicy",
+    "time": "60 min",
+    "ingredient": "chicken",
+    "description": "Rich chicken curry slow cooked with coconut cream, red curry paste, and bamboo shoots.",
+    "calories": "560 kcal",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 6,
+    "title": "15-Minute Spicy Black Pepper Beef",
+    "flavor": "spicy",
+    "time": "15 min",
+    "ingredient": "beef",
+    "description": "Tender beef slices quickly seared with cracked black peppercorns, garlic, and bell peppers.",
+    "calories": "460 kcal",
+    "difficulty": "Quick"
+  },
+  {
+    "id": 7,
+    "title": "Spicy Mongolian Flank Steak",
+    "flavor": "spicy",
+    "time": "30 min",
+    "ingredient": "beef",
+    "description": "Crispy flank steak tossed in a pungent, spicy ginger-garlic sauce with plenty of scallions.",
+    "calories": "520 kcal",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 8,
+    "title": "Slow-Braised Spicy Beef Barbacoa",
+    "flavor": "spicy",
+    "time": "60 min",
+    "ingredient": "beef",
+    "description": "Chuck roast braised until fork-tender in chipotle peppers, cumin, lime juice, and beef broth.",
+    "calories": "610 kcal",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 9,
+    "title": "15-Minute Crispy Chili Garlic Tofu",
+    "flavor": "spicy",
+    "time": "15 min",
+    "ingredient": "tofu",
+    "description": "Golden pan-fried tofu cubes drizzled with homemade garlic chili oil and toasted sesame seeds.",
+    "calories": "310 kcal",
+    "difficulty": "Quick"
+  },
+  {
+    "id": 10,
+    "title": "Fiery Mapo Tofu with Scallions",
+    "flavor": "spicy",
+    "time": "30 min",
+    "ingredient": "tofu",
+    "description": "Silken tofu simmered in a bold, tongue-tingling chili bean paste sauce garnished with green onions.",
+    "calories": "350 kcal",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 11,
+    "title": "Slow-Baked Spicy Red Curry Tofu",
+    "flavor": "spicy",
+    "time": "60 min",
+    "ingredient": "tofu",
+    "description": "Pressed firm tofu baked slowly in rich red curry sauce with roasted eggplant and baby corn.",
+    "calories": "390 kcal",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 12,
+    "title": "15-Minute Garlic Butter Chicken Tenders",
+    "flavor": "savoury",
+    "time": "15 min",
+    "ingredient": "chicken",
+    "description": "Juicy chicken breast strips quickly pan-seared with crushed garlic, fresh parsley, and salted butter.",
+    "calories": "410 kcal",
+    "difficulty": "Quick"
+  },
+  {
+    "id": 13,
+    "title": "Classic Herb-Roasted Chicken Skillet",
+    "flavor": "savoury",
+    "time": "30 min",
+    "ingredient": "chicken",
+    "description": "Golden chicken thighs cooked with rosemary, thyme, shallots, and a light white wine pan sauce.",
+    "calories": "470 kcal",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 14,
+    "title": "Creamy Garlic Parmesan Chicken",
+    "flavor": "savoury",
+    "time": "30 min",
+    "ingredient": "chicken",
+    "description": "Pan-seared chicken cutlets served in a rich, savoury garlic cream sauce with aged parmesan.",
+    "calories": "520 kcal",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 15,
+    "title": "French Onion Braised Chicken Thighs",
+    "flavor": "savoury",
+    "time": "60 min",
+    "ingredient": "chicken",
+    "description": "Caramelized onions cooked low and slow with bone-in chicken thighs and rich savoury broth.",
+    "calories": "530 kcal",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 16,
+    "title": "15-Minute Savoury Teriyaki Beef Skillet",
+    "flavor": "savoury",
+    "time": "15 min",
+    "ingredient": "beef",
+    "description": "Thinly shaved beef flash-cooked in a rich savoury-umami teriyaki glaze with scallions.",
+    "calories": "440 kcal",
+    "difficulty": "Quick"
+  },
+  {
+    "id": 17,
+    "title": "Savoury Garlic Butter Steak Bites",
+    "flavor": "savoury",
+    "time": "30 min",
+    "ingredient": "beef",
+    "description": "Sirloin steak cubes and cremini mushrooms seared with butter, worcestershire, and fresh thyme.",
+    "calories": "510 kcal",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 18,
+    "title": "Homestyle Savoury Red Wine Beef Stew",
+    "flavor": "savoury",
+    "time": "60 min",
+    "ingredient": "beef",
+    "description": "Hearty beef chuck simmered with root carrots, potatoes, and deeply savoury red wine gravy.",
+    "calories": "580 kcal",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 19,
+    "title": "15-Minute Pan-Seared Miso Tofu",
+    "flavor": "savoury",
+    "time": "15 min",
+    "ingredient": "tofu",
+    "description": "Firm tofu steaks seared in a deeply savoury white miso, mirin, and tamari reduction.",
+    "calories": "290 kcal",
+    "difficulty": "Quick"
+  },
+  {
+    "id": 20,
+    "title": "Savoury Teriyaki Glazed Tofu & Veggies",
+    "flavor": "savoury",
+    "time": "30 min",
+    "ingredient": "tofu",
+    "description": "Crispy pan-fried tofu simmered with broccoli florets in a savoury soy-ginger glaze.",
+    "calories": "330 kcal",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 21,
+    "title": "Savoury Baked Mushroom & Tofu Casserole",
+    "flavor": "savoury",
+    "time": "60 min",
+    "ingredient": "tofu",
+    "description": "Oven-baked tofu cubes with wild mushrooms, savoury vegetable broth, and herbed breadcrumbs.",
+    "calories": "360 kcal",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 22,
+    "title": "15-Minute Sweet Honey Sesame Chicken",
+    "flavor": "sweet",
+    "time": "15 min",
+    "ingredient": "chicken",
+    "description": "Flash-fried chicken pieces coated in pure clover honey, toasted sesame oil, and sweet soy.",
+    "calories": "430 kcal",
+    "difficulty": "Quick"
+  },
+  {
+    "id": 23,
+    "title": "Sweet Mango Glazed Chicken Skillet",
+    "flavor": "sweet",
+    "time": "30 min",
+    "ingredient": "chicken",
+    "description": "Pan-seared chicken cutlets basted with sweet mango glaze, fresh lime juice, and cilantro.",
+    "calories": "420 kcal",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 24,
+    "title": "Slow-Simmered Sweet Chinese Plum Chicken",
+    "flavor": "sweet",
+    "time": "60 min",
+    "ingredient": "chicken",
+    "description": "Tender chicken simmered in spiced sweet Chinese plum sauce with caramelized shallots.",
+    "calories": "490 kcal",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 25,
+    "title": "15-Minute Sweet Korean Bulgogi Beef",
+    "flavor": "sweet",
+    "time": "15 min",
+    "ingredient": "beef",
+    "description": "Marinated shaved ribeye quickly seared with pear puree, brown sugar, garlic, and sweet soy.",
+    "calories": "490 kcal",
+    "difficulty": "Quick"
+  },
+  {
+    "id": 26,
+    "title": "Sweet Hoisin & Honey Glazed Beef Strips",
+    "flavor": "sweet",
+    "time": "30 min",
+    "ingredient": "beef",
+    "description": "Caramelized beef strips coated in a glossy sweet hoisin, honey, and five-spice sauce.",
+    "calories": "510 kcal",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 27,
+    "title": "Slow-Cooked Sweet Teriyaki Beef Roast",
+    "flavor": "sweet",
+    "time": "60 min",
+    "ingredient": "beef",
+    "description": "Pot roast simmered slowly in brown sugar, pineapple juice, and sweetened soy glaze.",
+    "calories": "590 kcal",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 28,
+    "title": "15-Minute Sweet Maple Tamari Tofu",
+    "flavor": "sweet",
+    "time": "15 min",
+    "ingredient": "tofu",
+    "description": "Crispy pan-fried tofu bites glazed with pure maple syrup, tamari, and cracked black pepper.",
+    "calories": "300 kcal",
+    "difficulty": "Quick"
+  },
+  {
+    "id": 29,
+    "title": "Sweet & Sour Pineapple Crispy Tofu",
+    "flavor": "sweet",
+    "time": "30 min",
+    "ingredient": "tofu",
+    "description": "Golden tofu cubes tossed with fresh sweet pineapple chunks, bell peppers, and sweet & sour sauce.",
+    "calories": "340 kcal",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 30,
+    "title": "Slow-Baked Sweet Orange Glazed Tofu",
+    "flavor": "sweet",
+    "time": "60 min",
+    "ingredient": "tofu",
+    "description": "Firm baked tofu gently basted in caramelized sweet orange juice, clover honey, and ginger.",
+    "calories": "370 kcal",
+    "difficulty": "Intermediate"
+  }
+]
